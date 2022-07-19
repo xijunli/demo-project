@@ -1,1 +1,4 @@
-print(f'This is the demo file: {__file__}')
+import os
+
+print(os.listdir())
+
